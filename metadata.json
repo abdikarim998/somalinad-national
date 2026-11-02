@@ -1,0 +1,6 @@
+{
+  "name": "Somaliland National Human Capital Platform (SNHCP)",
+  "description": "National Education, Citizen Talent, Digital Academic Credentials & Employment Intelligence Platform for the Republic of Somaliland.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

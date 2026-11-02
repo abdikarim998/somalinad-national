@@ -1,0 +1,1143 @@
+# PROJECT PROPOSAL
+# Somaliland National Human Capital Platform (SNHCP)
+### National Education, Citizen Talent, Digital Credentials & Employment Intelligence Platform
+
+**Project Type:** National Digital Transformation & Human Capital Infrastructure  
+**Proposed Coverage:** Somaliland and Somaliland's international education and professional diaspora  
+**Primary Languages:** Somali and English  
+**Proposed Architecture:** Centralized National Platform with Secure Institutional Integration  
+**Document Status:** Project Concept & Comprehensive Proposal  
+**Version:** 1.0  
+**Date:** November 2026
+
+---
+
+# 1. EXECUTIVE SUMMARY
+
+Somaliland National Human Capital Platform (SNHCP) is a proposed national digital platform designed to establish a reliable, centralized and secure record of Somaliland's educated population, academic institutions, graduates, professional skills and employment opportunities.
+
+The platform aims to solve a major national information and coordination problem: the absence of a unified digital system through which the country can accurately understand its education population, identify its qualified human resources, verify academic credentials and connect qualified individuals with employment opportunities.
+
+Currently, information about university students, graduates, academic qualifications, certificates, professional skills and employment opportunities may be distributed across different universities, government institutions, private organizations and individual records.
+
+This fragmentation makes it difficult to establish accurate national education statistics, verify qualifications efficiently, identify available professionals and develop evidence-based human capital policies.
+
+SNHCP will address these challenges by creating a centralized national platform connecting:
+
+- Universities and higher education institutions.
+- Students and graduates.
+- Somaliland citizens and other eligible individuals.
+- Qualified professionals and the diaspora.
+- Private companies and employers.
+- Relevant government institutions.
+- Authorized education and employment stakeholders.
+
+The platform will provide a National Education Registry, Citizen and Talent Registry, Digital Academic Credential System, University Management Portal, Employer Portal, National Employment Exchange, and Human Capital Intelligence Dashboard.
+
+It will also introduce strong privacy and security controls to ensure that personal information, academic records and identity information are protected against unauthorized access.
+
+The platform will not simply be a job website or university database. It will serve as a long-term national digital infrastructure for understanding, protecting, developing and utilizing Somaliland's human capital.
+
+# 2. THE NATIONAL PROBLEM
+
+## 2.1 Fragmented Education Information
+
+There is a need for a unified national record of:
+
+- Students currently enrolled in Somaliland universities.
+- Graduates from recognized higher education institutions.
+- Master's degree holders.
+- PhD holders.
+- Bachelor's degree holders.
+- Diploma and Higher Diploma holders.
+- Certificate holders.
+- Students currently pursuing postgraduate education.
+- Individuals who have withdrawn, transferred or completed their studies.
+
+Without a unified system, obtaining a reliable national picture of higher education participation and graduate production becomes difficult.
+
+## 2.2 Lack of a Unified Graduate Registry
+
+Graduation records may be maintained separately by individual universities.
+
+This creates challenges when government institutions, employers and other authorized stakeholders need to establish:
+
+- How many graduates Somaliland produces annually.
+- Which universities produce graduates in different disciplines.
+- How many qualified professionals exist in specific fields.
+- Where graduates are located.
+- Which skills are available nationally.
+- Which qualifications require official verification.
+
+## 2.3 Academic Credential Verification Challenges
+
+Employers and institutions need reliable methods of verifying degrees, diplomas and academic transcripts.
+
+Where verification depends on manual communication with universities, it can become slow, inconsistent and difficult to scale.
+
+SNHCP will establish a digital verification mechanism based on authoritative university-issued records.
+
+## 2.4 Limited Visibility of National Talent
+
+Somaliland needs better information about its available human resources.
+
+For example:
+
+- How many software engineers are available?
+- How many doctors, engineers, accountants and teachers have graduated?
+- How many qualified professionals live outside Somaliland?
+- How many graduates are unemployed or seeking opportunities?
+- Which regions have shortages of particular professional skills?
+
+Without this information, national workforce planning becomes more difficult.
+
+## 2.5 Disconnected Education and Employment Systems
+
+Universities produce graduates, while companies recruit employees, but the information connecting these two activities is often fragmented.
+
+Employers may struggle to identify qualified candidates, while graduates may struggle to find relevant opportunities.
+
+SNHCP will connect the education system and employment market through a structured national talent and employment platform.
+
+## 2.6 Limited National Skills Intelligence
+
+A country cannot effectively plan its future workforce without understanding the skills it currently has and the skills it needs.
+
+SNHCP will provide aggregated data that supports education planning, workforce development, investment decisions and national employment strategies.
+
+# 3. PROJECT VISION
+
+To establish a trusted national digital infrastructure that identifies, records, verifies, protects and develops Somaliland's human capital.
+
+# 4. PROJECT MISSION
+
+The mission of SNHCP is to:
+
+1. Establish a comprehensive national education and graduate registry.
+2. Create a secure digital identity and talent profile for eligible users.
+3. Digitize academic records and enable secure credential verification.
+4. Connect universities with relevant government institutions.
+5. Connect qualified individuals with legitimate employment opportunities.
+6. Establish a national database of professional skills and qualifications.
+7. Include eligible Somaliland professionals living abroad.
+8. Provide reliable national education and workforce statistics.
+9. Strengthen transparency, data protection and institutional accountability.
+10. Support evidence-based national human capital development.
+
+# 5. WHO CAN REGISTER?
+
+SNHCP will support a broad registration model.
+
+Importantly, education eligibility, citizenship status and employment eligibility will be treated as separate concepts.
+
+## 5.1 Education and Alumni Registry
+
+Any person who has studied or graduated from a recognized university or eligible higher education institution in Somaliland may be included, regardless of:
+
+- Nationality.
+- Citizenship.
+- Current country of residence.
+- Whether they are currently studying or have graduated.
+
+This includes international students and foreign graduates who studied in Somaliland.
+
+## 5.2 Citizen Registry
+
+Somaliland citizens may register their identity and personal information through the appropriate identity verification process.
+
+Where authorized, the platform may integrate with relevant national identity systems.
+
+Individuals without an available national identity document should have an alternative identity verification process.
+
+## 5.3 National Talent Registry
+
+Eligible individuals may create professional profiles containing:
+
+- Education.
+- Qualifications.
+- Professional skills.
+- Work experience.
+- Certifications.
+- Employment preferences.
+- Location.
+- Professional interests.
+
+## 5.4 Diaspora Talent Registry
+
+Somaliland professionals living abroad may register their:
+
+- Academic qualifications.
+- Current profession.
+- Country of residence.
+- Work experience.
+- Professional skills.
+- Willingness to return.
+- Interest in remote mentoring.
+- Interest in training local professionals.
+- Interest in investment and professional collaboration.
+
+The platform must distinguish citizenship, nationality, residency and place of study rather than treating them as interchangeable.
+
+# 6. CORE SYSTEM MODULES
+
+SNHCP will consist of the following integrated modules.
+
+## MODULE 1: National Education Registry
+
+This module will establish a centralized record of higher education activity in Somaliland.
+
+### Main Functions
+
+- University registration.
+- Institutional profiles.
+- Faculty and department management.
+- Programme management.
+- Student registration.
+- Enrollment tracking.
+- Academic year management.
+- Graduation records.
+- Academic qualification classification.
+- Student transfers.
+- Withdrawals and completion status.
+- Historical graduate records.
+
+### Education Levels
+
+The system should support:
+
+1. PhD.
+2. Master's Degree.
+3. Postgraduate Diploma.
+4. Bachelor's Degree.
+5. General Degree classifications where applicable.
+6. Diploma.
+7. Higher Diploma.
+8. Professional Certificates.
+9. Other recognized academic qualifications.
+
+The platform must distinguish between academic qualification level, programme, field of study and credential type.
+
+### Student Status
+
+- Applicant.
+- Enrolled.
+- Active student.
+- On academic leave.
+- Suspended.
+- Transferred.
+- Withdrawn.
+- Graduated.
+- Deceased, where lawfully reported and relevant.
+
+### National Statistics
+
+The platform will calculate:
+
+- Total registered students.
+- Total active students.
+- Total graduates.
+- Graduates by academic year.
+- Graduates by university.
+- Graduates by qualification.
+- Graduates by field of study.
+- Students by region.
+- Postgraduate enrollment.
+- University completion trends.
+
+The statistics must clearly distinguish submitted, verified and registered records. They must not be presented as complete national population figures unless coverage is independently established.
+
+## MODULE 2: University Management Portal
+
+Every participating university will receive its own institutional account and management portal.
+
+### University Functions
+
+Universities will be able to:
+
+- Manage institutional information.
+- Register faculties and departments.
+- Submit student records.
+- Submit graduate records.
+- Update enrollment information.
+- Upload academic certificates.
+- Upload transcripts.
+- Submit historical academic records.
+- Report annual student and graduate statistics.
+- Respond to verification requests.
+- Correct inaccurate institutional records.
+- Monitor submitted records and verification status.
+
+### Data Submission Methods
+
+SNHCP will support three integration methods:
+
+**1. University Web Portal**
+
+Universities can manually manage and submit records through their secure portal.
+
+**2. API Integration**
+
+Universities with compatible information systems can submit data through secure APIs.
+
+**3. Bulk Data Import**
+
+Universities can upload structured CSV and Excel files using approved templates.
+
+### University Verification Workflow
+
+1. University submits an academic record.
+2. SNHCP validates the required fields.
+3. The record enters a verification workflow.
+4. Authorized institutional personnel confirm the source information.
+5. Central verification checks completeness, consistency and authenticity requirements.
+6. The record receives an appropriate verification status.
+7. The student or graduate can access eligible information.
+
+University personnel must not be able to approve their own high-risk institutional submissions without appropriate separation of duties and audit controls.
+
+## MODULE 3: National Citizen and Talent Registry
+
+This module will establish individual digital profiles.
+
+Each registered person will receive a unique SNHCP Talent ID.
+
+### Personal Profile
+
+- Full name.
+- Date of birth, where necessary.
+- Contact information.
+- Profile photograph, where appropriate.
+- Identity verification status.
+- Citizenship or nationality status, where relevant.
+- Country of residence.
+- Region and city.
+- Preferred language.
+
+### Education Profile
+
+- University.
+- Faculty.
+- Department.
+- Programme.
+- Qualification.
+- Graduation year.
+- Academic status.
+- Verified certificates.
+- Verified transcripts.
+
+### Professional Profile
+
+- Professional title.
+- Skills.
+- Work experience.
+- Professional certifications.
+- Portfolio or professional links.
+- Employment status.
+- Desired occupation.
+- Preferred working location.
+
+### Profile Ownership
+
+The individual must have control over their personal profile and the ability to:
+
+- View their information.
+- Request corrections.
+- Manage contact information.
+- Control profile visibility.
+- Manage consent.
+- Review authorized data-sharing activity.
+- Receive security notifications.
+- Request account recovery.
+
+The Talent ID is a platform identifier and must not be treated as a replacement for an official national identity document.
+
+## MODULE 4: Digital Academic Credentials and Verification
+
+This module will digitize academic documents and establish trusted verification.
+
+### Supported Documents
+
+- Degree certificates.
+- Diploma certificates.
+- Higher Diploma certificates.
+- Master's certificates.
+- PhD certificates.
+- Academic transcripts.
+- Professional certificates.
+- Other approved academic documents.
+
+### Document Security
+
+Academic documents will be stored in private, protected storage.
+
+Security controls will include:
+
+- Encryption at rest.
+- Encryption in transit.
+- Strict access permissions.
+- Document integrity checks.
+- Secure download authorization.
+- Access auditing.
+- Protection against unauthorized document modification.
+
+### QR Code Verification
+
+Each eligible credential may receive a secure QR code.
+
+When an authorized person scans the QR code, the system can confirm:
+
+- Whether the credential exists.
+- Whether the issuing institution is recognized.
+- Whether the credential has been verified.
+- Whether the credential has been revoked or corrected.
+- The relevant qualification information permitted for public verification.
+
+The QR code must not expose the full transcript, personal identification information or private documents.
+
+### Document Ownership and Access
+
+The university remains the academic issuing authority.
+
+SNHCP acts as the secure national registry and verification infrastructure.
+
+By default:
+
+- The student or graduate can access their own authorized documents.
+- The issuing university can manage and confirm records it submitted.
+- Employers cannot automatically download private certificates or transcripts.
+- Third-party access requires explicit consent or a valid legal basis.
+- Government access must be governed by defined statutory authority and audited permissions.
+
+## MODULE 5: Employer and Company Management Portal
+
+Companies and legitimate employers will be able to register and manage their recruitment activities.
+
+### Company Registration
+
+The platform will collect:
+
+- Company name.
+- Registration information.
+- Business sector.
+- Company location.
+- Contact information.
+- Authorized representatives.
+- Verification documents.
+- Employer account status.
+
+Companies must be verified before receiving access to restricted candidate-search functions.
+
+### Employer Functions
+
+- Create company profiles.
+- Publish vacancies.
+- Define qualification requirements.
+- Define required professional skills.
+- Define experience requirements.
+- Specify job location.
+- Review applicants.
+- Search eligible talent profiles.
+- Submit candidate contact requests.
+- Manage recruitment status.
+- Review permitted candidate information.
+
+### Example Vacancy
+
+**Position:** Software Engineer
+
+Requirements:
+
+- Bachelor's Degree in Computer Science or a related field.
+- React.
+- Node.js.
+- SQL.
+- Minimum two years of experience.
+- Location: Hargeisa.
+
+The platform will identify profiles matching the relevant requirements.
+
+### Candidate Matching
+
+Matching should consider:
+
+- Academic qualifications.
+- Field of study.
+- Technical skills.
+- Professional certifications.
+- Experience.
+- Location.
+- Candidate preferences.
+- Availability.
+
+The system should explain why a candidate matches a vacancy.
+
+Matching must not use religion or other irrelevant protected personal characteristics as employment-ranking criteria.
+
+### Candidate Privacy
+
+Employers must not automatically access the full personal information of candidates.
+
+The default search experience should use masked or limited profiles.
+
+Employers may submit a Contact Request to a candidate.
+
+The candidate receives a notification and can:
+
+- Approve the request.
+- Reject the request.
+- Ignore the request.
+
+Only after approval may the employer receive the specific contact information authorized by the candidate.
+
+**The platform will not include live chat or private messaging between employers and candidates.**
+
+Communication can take place through approved contact information after the candidate grants permission.
+
+## MODULE 6: National Employment Exchange
+
+This module will connect qualified individuals with employment opportunities.
+
+### Main Features
+
+- National job listings.
+- Graduate employment opportunities.
+- Internship programmes.
+- Graduate trainee programmes.
+- Public-sector vacancies where authorized.
+- Private-sector vacancies.
+- Professional opportunities.
+- Candidate applications.
+- Application status tracking.
+- Employer recruitment dashboards.
+- Candidate-job matching.
+
+### Candidate Application Workflow
+
+1. Employer publishes a vacancy.
+2. SNHCP checks the vacancy requirements.
+3. Matching candidates are identified.
+4. Candidates receive relevant notifications.
+5. Interested candidates submit applications.
+6. Employers review applications.
+7. Employers update application status.
+8. Candidates receive status notifications.
+
+## MODULE 7: National Human Capital Intelligence
+
+This module will transform verified and aggregated data into national intelligence.
+
+### Government Dashboards
+
+Authorized government stakeholders will be able to access approved statistical reports.
+
+Examples:
+
+- Total registered university students.
+- Total verified graduates.
+- Graduates by academic level.
+- Graduates by university.
+- Graduates by professional field.
+- Annual graduation trends.
+- Available professional skills.
+- Geographic distribution of registered talent.
+- Registered unemployed graduates.
+- Diaspora professional distribution.
+- Employment demand by sector.
+
+### National Skills Gap Analysis
+
+The platform should compare:
+
+- Skills available in the registered talent population.
+- Skills requested by employers.
+- Skills being produced by universities.
+- Skills required by national development sectors.
+
+This will help identify potential shortages in areas such as:
+
+- Healthcare.
+- Engineering.
+- Education.
+- Information Technology.
+- Agriculture.
+- Finance.
+- Construction.
+- Public Administration.
+
+### Public Statistics
+
+The platform may publish aggregated national education and workforce statistics.
+
+Public dashboards must not reveal identifiable personal information or allow small groups to be indirectly identified.
+
+# 7. NOTIFICATION INFRASTRUCTURE
+
+SNHCP will provide a centralized notification service.
+
+The three primary channels will be:
+
+1. SMS.
+2. Email.
+3. WhatsApp Business API.
+
+SMS will receive particular priority because of its importance for account access, security and communication with users who may not regularly use email.
+
+### SMS Notifications
+
+- Account verification.
+- OTP authentication.
+- Password changes.
+- New-device login alerts.
+- Suspicious login alerts.
+- Academic verification updates.
+- Job application updates.
+- Employer contact requests.
+- Important account notifications.
+
+### Email Notifications
+
+- Account registration.
+- Academic record updates.
+- Document verification results.
+- Employer and recruitment notifications.
+- Institutional reports.
+- Official system communications.
+
+### WhatsApp Notifications
+
+- Recruitment notifications.
+- Contact requests.
+- Account reminders.
+- Selected academic notifications.
+- Important service announcements.
+
+WhatsApp messaging will use the official WhatsApp Business Platform and comply with applicable user-consent and messaging rules.
+
+### Notification Management
+
+Users will be able to configure their communication preferences.
+
+The system must include:
+
+- Delivery tracking.
+- Failed-message retries.
+- Notification history.
+- Message templates.
+- Language selection.
+- Priority levels.
+- SMS gateway monitoring.
+- Notification usage reports.
+
+Critical security alerts should remain enabled through an appropriate security policy.
+
+# 8. SECURITY, PRIVACY AND DATA PROTECTION
+
+Security is a foundational requirement of SNHCP, not an optional feature.
+
+The platform will contain highly sensitive identity, education and employment information.
+
+A security breach could cause significant harm to individuals and undermine institutional trust.
+
+## 8.1 Data Protection Architecture
+
+Every individual will have a protected personal data space.
+
+Each module will receive only the information required to perform its authorized function.
+
+### Mandatory Security Controls
+
+**Encryption**
+
+- Encryption of data at rest.
+- Encryption of data in transit.
+- Secure encryption-key management.
+- Separate protection for highly sensitive identity information.
+
+**Authentication**
+
+- Multi-factor authentication.
+- Strong password policies.
+- Secure account recovery.
+- Session expiration.
+- Device and login monitoring.
+- Stronger authentication requirements for privileged users.
+
+**Access Control**
+
+- Role-Based Access Control (RBAC).
+- Attribute-Based Access Control (ABAC).
+- Least-privilege permissions.
+- Separation of duties.
+- Institution-level access restrictions.
+- Candidate-controlled data sharing.
+
+**Audit and Monitoring**
+
+The system must record:
+
+- Who accessed information.
+- What information was accessed.
+- When access occurred.
+- Which organization or account initiated access.
+- Whether information was changed.
+- Whether documents were downloaded.
+- Whether permissions were granted or revoked.
+
+Audit records must be tamper-resistant and protected from unauthorized alteration.
+
+**Threat Detection**
+
+- Rate limiting.
+- Suspicious login detection.
+- Brute-force protection.
+- Unusual download detection.
+- API security monitoring.
+- Security incident alerts.
+- Malware scanning for uploaded documents.
+
+## 8.2 Personal Data Control
+
+Individuals must be able to:
+
+- Review their registered information.
+- Request corrections.
+- Review authorized data access.
+- Manage sharing permissions.
+- Revoke consent where applicable.
+- Report suspected unauthorized access.
+- Request account restrictions.
+- Submit privacy complaints.
+
+## 8.3 Administrative Security
+
+System administrators must not automatically have unrestricted access to all personal information.
+
+Sensitive access must require appropriate authorization, justification and auditing.
+
+## 8.4 Backup and Disaster Recovery
+
+The platform must implement:
+
+- Encrypted backups.
+- Secure backup storage.
+- Recovery testing.
+- Disaster recovery procedures.
+- Business continuity planning.
+- Defined recovery objectives.
+
+## 8.5 Security Governance
+
+Before production deployment, the project must establish:
+
+- A formal security policy.
+- A privacy policy.
+- A data classification policy.
+- A data retention policy.
+- An incident response plan.
+- A vulnerability management process.
+- Independent security testing.
+- A data protection governance framework.
+
+# 9. INSTITUTIONAL GOVERNANCE
+
+SNHCP requires clear institutional responsibilities.
+
+The final institutional ownership and operating mandate should be established through the relevant government approval process.
+
+### Proposed Stakeholder Responsibilities
+
+**Government Oversight**
+
+Responsible for national policy, institutional authorization, governance and public accountability.
+
+**Education Authorities**
+
+Responsible for education-sector standards, institutional coordination and relevant education data governance.
+
+**Participating Universities**
+
+Responsible for the authenticity and accuracy of academic records they issue and submit.
+
+**SNHCP Operating Authority**
+
+Responsible for platform operations, technical security, verification workflows, data infrastructure and service delivery.
+
+**Employers**
+
+Responsible for accurate company information, legitimate recruitment activities and compliance with candidate privacy requirements.
+
+**Individuals**
+
+Responsible for providing accurate information and managing their consent and account security.
+
+### Verification Principle
+
+SNHCP must not claim that it has independently issued a degree.
+
+The issuing university remains responsible for the academic credential.
+
+SNHCP records, validates and communicates the credential's verification status.
+
+# 10. PROPOSED TECHNICAL ARCHITECTURE
+
+The initial technical recommendation is a secure modular monolith that can evolve as usage and institutional integrations grow.
+
+### Frontend
+
+- React.
+- TypeScript.
+- Responsive web application.
+- Accessible user interfaces.
+- Somali and English language support.
+
+### Backend
+
+- NestJS.
+- TypeScript.
+- REST API.
+- OpenAPI documentation.
+- Modular domain architecture.
+
+### Database
+
+- PostgreSQL.
+- Prisma ORM.
+- Structured relational data.
+- Strong database access controls.
+
+### Background Processing
+
+- Redis.
+- BullMQ.
+- Asynchronous processing.
+- Notification queues.
+- Bulk-import processing.
+- Document-processing workflows.
+
+### Document Storage
+
+- Private S3-compatible object storage.
+- Encrypted academic documents.
+- Secure access links.
+- Document integrity verification.
+
+### Infrastructure
+
+- Docker.
+- CI/CD through GitHub Actions.
+- Environment-based configuration.
+- Centralized logging.
+- Monitoring and alerting.
+- Automated backups.
+
+### Core Technical Domains
+
+1. Identity and Access Management.
+2. Person and Talent Profiles.
+3. University and Institution Management.
+4. Student and Enrollment Records.
+5. Academic Credentials.
+6. Verification Workflows.
+7. Employer Management.
+8. Recruitment and Applications.
+9. Consent and Privacy.
+10. Notifications.
+11. Analytics and Reporting.
+12. Audit and Security Operations.
+
+# 11. IMPLEMENTATION ROADMAP
+
+The project should be developed in controlled phases.
+
+## PHASE 1: Foundation and Governance
+
+- Confirm project requirements.
+- Establish the data governance model.
+- Define security architecture.
+- Define user roles and permissions.
+- Design the database.
+- Build the core backend and frontend.
+- Establish development and deployment environments.
+- Prepare technical documentation.
+
+**Deliverable:** Secure foundational platform.
+
+## PHASE 2: National Identity and Talent Registry
+
+- User registration.
+- Authentication.
+- Talent ID generation.
+- Personal profiles.
+- Identity verification workflows.
+- Citizenship and residency classification.
+- Profile management.
+
+**Deliverable:** National Talent Registry.
+
+## PHASE 3: University and Education Registry
+
+- University registration.
+- University portals.
+- Faculty and department management.
+- Student enrollment.
+- Graduate records.
+- Education classification.
+- Bulk data import.
+
+**Deliverable:** National Education Registry.
+
+## PHASE 4: Digital Credentials and Verification
+
+- Certificate management.
+- Transcript management.
+- Secure document storage.
+- University verification workflows.
+- Central verification.
+- QR code verification.
+- Candidate document access.
+
+**Deliverable:** Digital Academic Credential System.
+
+## PHASE 5: Institutional Integration
+
+- University API integration.
+- CSV and Excel imports.
+- Data validation.
+- Integration monitoring.
+- Institutional reporting.
+- Data reconciliation.
+
+**Deliverable:** National Education Integration Hub.
+
+## PHASE 6: Employer and Employment Platform
+
+- Company registration.
+- Employer verification.
+- Employer portal.
+- Vacancy management.
+- Candidate search.
+- Candidate matching.
+- Contact request workflow.
+- Job applications.
+- Recruitment tracking.
+
+**Deliverable:** National Employment Exchange.
+
+## PHASE 7: Notifications and Advanced Talent Services
+
+- SMS integration.
+- Email integration.
+- WhatsApp Business API integration.
+- Notification preferences.
+- Diaspora Talent Registry.
+- Internship programmes.
+- Graduate trainee programmes.
+- Skills and professional development services.
+
+**Deliverable:** Integrated Communication and Talent Services.
+
+## PHASE 8: National Intelligence and Analytics
+
+- Government dashboards.
+- Education statistics.
+- Graduate statistics.
+- Skills inventory.
+- Employer demand analysis.
+- National skills gap reports.
+- Public aggregated statistics.
+
+**Deliverable:** National Human Capital Intelligence System.
+
+## PHASE 9: Security, Testing and Production Readiness
+
+- Functional testing.
+- Integration testing.
+- Performance testing.
+- Security testing.
+- Independent penetration testing.
+- Disaster recovery testing.
+- Data migration validation.
+- User acceptance testing.
+- Production deployment.
+- Operational handover.
+
+**Deliverable:** Production-ready national platform.
+
+# 12. EXPECTED NATIONAL BENEFITS
+
+## Education Sector
+
+- Improved national education statistics.
+- Better visibility of university enrollment.
+- Reliable graduate records.
+- Improved institutional accountability.
+- Faster academic verification.
+- Better education planning.
+
+## Employment Sector
+
+- Improved graduate-employer connections.
+- Faster identification of qualified candidates.
+- Better visibility of professional skills.
+- More structured recruitment.
+- Increased access to employment opportunities.
+
+## Government
+
+- Evidence-based workforce planning.
+- Better national human capital statistics.
+- Improved education policy decisions.
+- Better understanding of skill shortages.
+- More effective national development planning.
+
+## Private Sector
+
+- Easier access to verified talent.
+- Reduced credential verification delays.
+- Better recruitment processes.
+- More efficient talent identification.
+
+## Individuals
+
+- Secure digital academic records.
+- Easier access to verified credentials.
+- Greater control over personal information.
+- Better access to employment opportunities.
+- Recognition of professional qualifications.
+- Opportunities for diaspora participation.
+
+# 13. PROJECT SUCCESS INDICATORS
+
+The following indicators should be used to measure performance.
+
+| Area | Key Performance Indicator |
+|---|---|
+| University onboarding | Number and percentage of participating institutions |
+| Student registration | Number of registered students |
+| Graduate registry | Number of verified graduate records |
+| Academic verification | Verification turnaround time |
+| Credential security | Percentage of protected documents |
+| Employment | Number of active employer accounts |
+| Recruitment | Number of vacancies and applications |
+| Talent matching | Candidate-match relevance |
+| Notifications | Successful SMS and email delivery rates |
+| Security | Number and severity of security incidents |
+| Data quality | Percentage of records meeting validation standards |
+| User experience | User satisfaction and service availability |
+
+Targets should be established after the initial institutional baseline assessment.
+
+# 14. RISKS AND MITIGATION
+
+## Risk 1: Inaccurate University Data
+
+**Mitigation:** Standardized templates, validation rules, institutional confirmation and periodic data reconciliation.
+
+## Risk 2: Unauthorized Access to Personal Records
+
+**Mitigation:** Encryption, MFA, least-privilege access, auditing and independent security testing.
+
+## Risk 3: Institutional Resistance
+
+**Mitigation:** Formal agreements, university onboarding, training and phased integration.
+
+## Risk 4: Incomplete National Coverage
+
+**Mitigation:** Clear coverage reporting, institution-level participation statistics and continuous onboarding.
+
+## Risk 5: Weak Internet Connectivity
+
+**Mitigation:** Lightweight responsive portals, asynchronous processing and practical institutional data-import workflows.
+
+## Risk 6: SMS Delivery Failures
+
+**Mitigation:** Multiple delivery-provider options where feasible, delivery monitoring, retries and fallback email notifications.
+
+## Risk 7: Financial Sustainability
+
+**Mitigation:** Government-backed operational funding, controlled infrastructure costs, long-term maintenance planning and transparent institutional financing arrangements.
+
+## Risk 8: Misuse of Employer Search
+
+**Mitigation:** Employer verification, candidate consent, masked profiles, access restrictions and audit monitoring.
+
+# 15. SUSTAINABILITY AND LONG-TERM DEVELOPMENT
+
+SNHCP should be designed as a long-term national public digital infrastructure.
+
+Its sustainability requires:
+
+- Institutional ownership.
+- Stable operational funding.
+- Qualified technical staff.
+- University participation agreements.
+- Long-term cybersecurity maintenance.
+- Regular system upgrades.
+- Data governance and compliance.
+- Reliable infrastructure and backups.
+- Continuous user support.
+
+The system should avoid depending on one individual developer or one external technology provider.
+
+Technical documentation, source-code ownership, deployment procedures, backup access and operational handover must be clearly defined.
+
+# 16. PROJECT BOUNDARIES AND IMPORTANT PRINCIPLES
+
+The following principles are mandatory:
+
+1. SNHCP is not a replacement for the issuing university.
+2. National ID integration requires appropriate legal authorization and official integration agreements.
+3. Personal data must not be publicly exposed.
+4. Employers cannot automatically access private candidate documents.
+5. Candidate contact requires permission.
+6. No live chat will be included in the Employer Portal.
+7. Citizenship and education eligibility must remain separate.
+8. Religion must not be used as a registration requirement or employment-selection criterion.
+9. Public statistics must be aggregated and privacy-protected.
+10. All sensitive access must be auditable.
+11. The system must distinguish verified records from unverified submissions.
+12. The platform must support both Somali and English.
+13. Individuals must have appropriate rights to review and correct their information.
+14. Data access must be governed by consent or another valid legal basis.
+
+# 17. CONCLUSION
+
+Somaliland National Human Capital Platform represents an opportunity to establish a unified national digital system for understanding and developing the country's human resources.
+
+By bringing universities, students, graduates, professionals, employers and government stakeholders into one secure digital infrastructure, Somaliland can improve its understanding of its education sector, strengthen academic verification, identify available professional skills and create better connections between education and employment.
+
+The platform will provide more than digital registration.
+
+It will establish a national foundation for:
+
+- Education intelligence.
+- Verified academic credentials.
+- Professional talent identification.
+- Employment connectivity.
+- Diaspora engagement.
+- Workforce planning.
+- National human capital development.
+
+The long-term objective is to ensure that Somaliland has a reliable, secure and continuously updated understanding of its educated population and professional capabilities.
+
+**SNHCP: Identifying Talent. Verifying Qualifications. Connecting Opportunities. Developing National Human Capital.**
+
+---
+
+# 18. PROPOSED NEXT STEPS
+
+Before full national implementation, the following activities are recommended:
+
+1. Obtain initial government and institutional sponsorship.
+2. Identify the proposed government institution responsible for oversight.
+3. Conduct consultations with universities and relevant stakeholders.
+4. Assess existing university information systems and data quality.
+5. Establish the legal and data protection framework.
+6. Approve the national education and qualification classification.
+7. Confirm institutional integration requirements.
+8. Develop the detailed system architecture and database model.
+9. Build an initial pilot with selected universities.
+10. Evaluate the pilot before national expansion.
+
+**Final Recommendation:** Begin with a controlled pilot involving a small number of participating universities, establish reliable student and graduate records, test credential verification and security, and then expand to additional institutions and the national employment ecosystem.
+
